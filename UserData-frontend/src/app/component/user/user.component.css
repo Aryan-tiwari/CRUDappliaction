@@ -1,0 +1,19 @@
+th{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+td{
+    text-align: center;
+    
+
+}
+.rows{
+    background-color: #dddcdc88;
+}
+.rowswhole :hover{
+    background-color: #b9b9b995;
+}
+
+
